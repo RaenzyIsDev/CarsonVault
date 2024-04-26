@@ -1,4 +1,4 @@
-# Muer
+# Carson Vault, a fork of Muer
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/muer-org/muer?quickstart=1)
 
 Muer is a modern, open-source music player for you and your friends. 
@@ -28,15 +28,7 @@ npm run dev # Start the development server
 By hosting Muer on various platforms, you help ensure the future of this project. While we use Netlify by default due to its simplicity and speed, we highly encourage individuals to explore and document their experiences with running Muer on alternative platforms.
 
 ## Host on Netlify
-Clicking this button will start the setup for a new project and deployment.
-
-[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/muer-org/muer)
-
-Copy environment variables from the `.env.sample` file like so
-
-<a href="public/screenshot_env.png"><img src="public/screenshot_env.png" height="240"></a>
-
-You may need to deploy again
+Fork the repo and copy the text to a variable.
 
 <a href="public/screenshot_deploy_again.png"><img src="public/screenshot_deploy_again.png" height="240"></a>
 
