@@ -28,7 +28,7 @@ npm run dev # Start the development server
 By hosting Muer on various platforms, you help ensure the future of this project. While we use Netlify by default due to its simplicity and speed, we highly encourage individuals to explore and document their experiences with running Muer on alternative platforms.
 
 ## Host on Netlify
-Fork the repo and copy the text to a variable.
+Fork the repo and copy the text in env.sample to a variable.
 
 <a href="public/screenshot_deploy_again.png"><img src="public/screenshot_deploy_again.png" height="240"></a>
 
